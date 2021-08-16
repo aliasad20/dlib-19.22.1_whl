@@ -6,3 +6,4 @@
 ### 2. Open the Command Prompt or Power Shell at that location.
 ### 3. Run the command 'pip install dlib-19.22.1-cp39-cp39-win_amd64.whl' and then boom you have installed dlib on windows Python 3.9 without any help from the hefty compilers like Visual CPP.
 ## It is strictly for Python 3.9 Windows 10 configuration. It just provides pre compiled dlib library .whl file which can be used easily with Python 3.9.
+### Done
